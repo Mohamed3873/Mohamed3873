@@ -2,8 +2,6 @@
 
 I'm a final-year Computer Engineering student at NTNU in Ålesund, Norway.
 
-I work at Solwr Robotics
-
 ---
 
 ### Tech Stack
@@ -20,5 +18,5 @@ I work at Solwr Robotics
 
 ## GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=09ejacob&theme=github_dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=09ejacob&theme=github_dark&hide_border=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mohamed387&theme=github_dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed3873&theme=github_dark&hide_border=false&layout=compact)
